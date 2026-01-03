@@ -1,0 +1,9 @@
+{
+  "name": "Copy of CAI AI Health & Fitness",
+  "description": "A comprehensive health and workout analysis application with personalized AI-driven guidance and progress tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
